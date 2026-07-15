@@ -1,0 +1,4 @@
+{
+  "_comment": "Fallback only. The site reads GitHub directly first; this list is used offline, on custom domains without CONFIG set, or if the API is rate-limited.",
+  "games": ["snake"]
+}
